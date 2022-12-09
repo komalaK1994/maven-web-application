@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to komala software Solutions.... Banglore,Karnataka </h1>
+<h1 align="center">Welcome to komala software Solutions.... Markapur,AndhraPradesh </h1>
 <h1 align="center"> komala software solutions- Very Good Training center for DevOps with AWS in Maratha Halli bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
