@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Dhanu Software Solutions.... Hindupur,AndhraPradesh </h1>
+<h1 align="center">Welcome to dhanu Software Solutions.... Hindupur,AndhraPradesh </h1>
 <h1 align="center"> Dhanu software solutions- Very Good Training center for DevOps with AWS in Hindupur AndhraPradesh India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
