@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Dhanushj Software Solutions.... Hindupur,AndhraPradesh </h1>
+<h1 align="center">Welcome to Dhanush Software Solutions.... Hindupur,AndhraPradesh </h1>
 <h1 align="center"> Dhanush software solutions- Very Good Training center for DevOps with AWS in Hindupur AndhraPradesh India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
